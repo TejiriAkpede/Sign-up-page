@@ -1,3 +1,3 @@
 # Sign-up-page
 
-I just started learnung CSS and decided to use my little knowledge to style the form I created with html.
+I just started learning CSS and decided to implement what I learnt by creating a simple sign up page.
